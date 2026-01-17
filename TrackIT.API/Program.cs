@@ -24,13 +24,13 @@ builder.Services.AddControllers();
 
 // 3. Database Context
 // ENSURE "default" MATCHES YOUR appsettings.json KEY
-var connectionString = builder.Configuration.GetConnectionString("default");
+//var connectionString = builder.Configuration.GetConnectionString("default");
 //builder.Services.AddDbContext<AppDbContext>(options =>
 //    options.UseSqlServer(connectionString));
 
 // NEW (PostgreSQL)
 builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseNpgsql(builder.Configuration.GetConnectionString("default")));
 
 // 4. Identity Services (CRITICAL FIX)
 // This registers UserManager, RoleManager, and connects them to EF Core
@@ -83,15 +83,15 @@ builder.Services.AddCors(options =>
     });
 });
 
+
 var app = builder.Build();
 
-// 7. Seeder (Runs on Startup)
 using (var scope = app.Services.CreateScope())
 {
     var services = scope.ServiceProvider;
     try
     {
-        await SeedData.InitializeAsync(services);
+        await TrackIT.Data.SeedData.InitializeAsync(services);
     }
     catch (Exception ex)
     {
