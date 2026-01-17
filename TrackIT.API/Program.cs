@@ -25,6 +25,7 @@ builder.Services.AddControllers();
 // 3. Database Context
 // ENSURE "default" MATCHES YOUR appsettings.json KEY
 var connectionString = builder.Configuration.GetConnectionString("default");
+Console.WriteLine($"[DEBUG] Connection String Found: '{connectionString}'");
 //builder.Services.AddDbContext<AppDbContext>(options =>
 //    options.UseSqlServer(connectionString));
 
