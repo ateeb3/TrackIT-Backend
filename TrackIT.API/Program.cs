@@ -73,7 +73,7 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("ReactPolicy", policy =>
     {
-        policy.WithOrigins("http://localhost:5173") // The Angular URL
+        policy.WithOrigins("https://track-it-frontend-sigma.vercel.app", "http://localhost:5173") // The Angular URL
               .AllowAnyHeader()
               .AllowAnyMethod();
     });
