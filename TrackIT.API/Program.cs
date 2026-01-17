@@ -24,13 +24,13 @@ builder.Services.AddControllers();
 
 // 3. Database Context
 // ENSURE "default" MATCHES YOUR appsettings.json KEY
-//var connectionString = builder.Configuration.GetConnectionString("default");
+var connectionString = builder.Configuration.GetConnectionString("default");
 //builder.Services.AddDbContext<AppDbContext>(options =>
 //    options.UseSqlServer(connectionString));
 
 // NEW (PostgreSQL)
 builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseNpgsql(connectionString));
 
 // 4. Identity Services (CRITICAL FIX)
 // This registers UserManager, RoleManager, and connects them to EF Core
