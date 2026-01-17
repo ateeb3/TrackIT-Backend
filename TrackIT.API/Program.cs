@@ -24,12 +24,18 @@ builder.Services.AddControllers();
 
 // 3. Database Context
 // ENSURE "default" MATCHES YOUR appsettings.json KEY
-var connectionString = builder.Configuration.GetConnectionString("default");
-Console.WriteLine($"[DEBUG] Connection String Found: '{connectionString}'");
-//builder.Services.AddDbContext<AppDbContext>(options =>
-//    options.UseSqlServer(connectionString));
+var connectionString = builder.Configuration["DATABASE_URL"];
 
-// NEW (PostgreSQL)
+// 2. If that's empty, fall back to the old way (appsettings.json)
+if (string.IsNullOrEmpty(connectionString))
+{
+    connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+}
+
+// 3. Debug Log (So we can see it in Render logs if it fails again)
+Console.WriteLine($"[DEBUG] Final Connection String: '{connectionString}'");
+
+// 4. Connect
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseNpgsql(connectionString));
 
