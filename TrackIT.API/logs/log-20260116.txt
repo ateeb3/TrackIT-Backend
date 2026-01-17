@@ -1,0 +1,37 @@
+2026-01-16 00:03:37.736 +05:00 [INF] Now listening on: https://localhost:7188
+2026-01-16 00:03:37.822 +05:00 [INF] Now listening on: http://localhost:5073
+2026-01-16 00:03:38.538 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-16 00:03:38.553 +05:00 [INF] Hosting environment: Development
+2026-01-16 00:03:38.565 +05:00 [INF] Content root path: C:\Users\ZC\source\repos\TrackIT\TrackIT.API
+2026-01-16 00:04:04.240 +05:00 [INF] Fetching all assets with categories
+2026-01-16 00:04:09.284 +05:00 [INF] Fetching all assets with categories
+2026-01-16 00:04:13.032 +05:00 [INF] Fetching all assets with categories
+2026-01-16 00:04:23.599 +05:00 [INF] Fetching all assets with categories
+2026-01-16 00:07:35.450 +05:00 [INF] Fetching all assets with categories
+2026-01-16 00:10:03.007 +05:00 [INF] Fetching all assets with categories
+2026-01-16 00:10:16.689 +05:00 [INF] Fetching all assets with categories
+2026-01-16 00:10:23.019 +05:00 [INF] Fetching all assets with categories
+2026-01-16 00:10:40.521 +05:00 [INF] Fetching all assets with categories
+2026-01-16 00:10:42.708 +05:00 [INF] Fetching all assets with categories
+2026-01-16 00:13:06.674 +05:00 [INF] Fetching all assets with categories
+2026-01-16 00:13:57.677 +05:00 [INF] Fetching all assets with categories
+2026-01-16 00:14:04.007 +05:00 [INF] Fetching all assets with categories
+2026-01-16 00:14:09.168 +05:00 [INF] Asset 1 assigned to User 48cdcd50-26a0-4e30-a318-a6fc38037705
+2026-01-16 00:31:54.280 +05:00 [INF] Now listening on: https://localhost:7188
+2026-01-16 00:31:54.357 +05:00 [INF] Now listening on: http://localhost:5073
+2026-01-16 00:31:54.750 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-16 00:31:54.752 +05:00 [INF] Hosting environment: Development
+2026-01-16 00:31:54.754 +05:00 [INF] Content root path: C:\Users\ZC\source\repos\TrackIT\TrackIT.API
+2026-01-16 00:36:41.793 +05:00 [INF] Fetching all assets with categories
+2026-01-16 00:37:02.066 +05:00 [INF] Fetching all assets with categories
+2026-01-16 18:29:16.603 +05:00 [INF] Creating new asset: Mackbook Pro 16
+2026-01-16 23:00:09.051 +05:00 [INF] Now listening on: https://localhost:7188
+2026-01-16 23:00:09.161 +05:00 [INF] Now listening on: http://localhost:5073
+2026-01-16 23:00:09.746 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-16 23:00:09.750 +05:00 [INF] Hosting environment: Development
+2026-01-16 23:00:09.760 +05:00 [INF] Content root path: C:\Users\ZC\source\repos\TrackIT\TrackIT.API
+2026-01-16 23:01:53.938 +05:00 [INF] Now listening on: https://localhost:7188
+2026-01-16 23:01:54.044 +05:00 [INF] Now listening on: http://localhost:5073
+2026-01-16 23:01:54.564 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-16 23:01:54.567 +05:00 [INF] Hosting environment: Development
+2026-01-16 23:01:54.570 +05:00 [INF] Content root path: C:\Users\ZC\source\repos\TrackIT\TrackIT.API

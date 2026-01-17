@@ -1,0 +1,15 @@
+2026-01-14 00:06:02.056 +05:00 [INF] Now listening on: https://localhost:7188
+2026-01-14 00:06:02.110 +05:00 [INF] Now listening on: http://localhost:5073
+2026-01-14 00:06:02.420 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-14 00:06:02.423 +05:00 [INF] Hosting environment: Development
+2026-01-14 00:06:02.425 +05:00 [INF] Content root path: C:\Users\ZC\source\repos\TrackIT\TrackIT.API
+2026-01-14 00:46:27.429 +05:00 [INF] Now listening on: https://localhost:7188
+2026-01-14 00:46:27.530 +05:00 [INF] Now listening on: http://localhost:5073
+2026-01-14 00:46:27.910 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-14 00:46:27.914 +05:00 [INF] Hosting environment: Development
+2026-01-14 00:46:27.916 +05:00 [INF] Content root path: C:\Users\ZC\source\repos\TrackIT\TrackIT.API
+2026-01-14 00:56:09.894 +05:00 [INF] Now listening on: https://localhost:7188
+2026-01-14 00:56:09.967 +05:00 [INF] Now listening on: http://localhost:5073
+2026-01-14 00:56:10.443 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-14 00:56:10.450 +05:00 [INF] Hosting environment: Development
+2026-01-14 00:56:10.453 +05:00 [INF] Content root path: C:\Users\ZC\source\repos\TrackIT\TrackIT.API

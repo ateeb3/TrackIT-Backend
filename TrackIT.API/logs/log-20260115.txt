@@ -1,0 +1,25 @@
+2026-01-15 21:02:36.611 +05:00 [INF] Now listening on: https://localhost:7188
+2026-01-15 21:02:36.737 +05:00 [INF] Now listening on: http://localhost:5073
+2026-01-15 21:02:37.446 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-15 21:02:37.449 +05:00 [INF] Hosting environment: Development
+2026-01-15 21:02:37.452 +05:00 [INF] Content root path: C:\Users\ZC\source\repos\TrackIT\TrackIT.API
+2026-01-15 21:11:04.982 +05:00 [INF] Fetching all assets with categories
+2026-01-15 21:11:41.581 +05:00 [INF] Creating new asset: HP G840 G7
+2026-01-15 21:11:42.219 +05:00 [INF] Fetching all assets with categories
+2026-01-15 21:11:51.502 +05:00 [INF] Fetching all assets with categories
+2026-01-15 21:22:45.620 +05:00 [INF] Fetching all assets with categories
+2026-01-15 21:24:14.622 +05:00 [INF] Fetching all assets with categories
+2026-01-15 21:42:19.535 +05:00 [INF] Now listening on: https://localhost:7188
+2026-01-15 21:42:19.656 +05:00 [INF] Now listening on: http://localhost:5073
+2026-01-15 21:42:20.257 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-15 21:42:20.261 +05:00 [INF] Hosting environment: Development
+2026-01-15 21:42:20.265 +05:00 [INF] Content root path: C:\Users\ZC\source\repos\TrackIT\TrackIT.API
+2026-01-15 21:58:07.713 +05:00 [INF] Fetching all assets with categories
+2026-01-15 21:59:42.489 +05:00 [INF] Fetching all assets with categories
+2026-01-15 22:03:58.435 +05:00 [INF] Fetching all assets with categories
+2026-01-15 22:04:26.821 +05:00 [INF] Asset 1 assigned to User 48cdcd50-26a0-4e30-a318-a6fc38037705
+2026-01-15 22:06:23.707 +05:00 [INF] Fetching all assets with categories
+2026-01-15 22:06:38.542 +05:00 [INF] Fetching all assets with categories
+2026-01-15 22:06:54.347 +05:00 [INF] Fetching all assets with categories
+2026-01-15 22:07:00.753 +05:00 [INF] Asset 1 assigned to User 48cdcd50-26a0-4e30-a318-a6fc38037705
+2026-01-15 22:07:04.347 +05:00 [INF] Fetching all assets with categories

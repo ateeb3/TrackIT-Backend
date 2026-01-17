@@ -1,0 +1,34 @@
+# --- Custom Ignored Folders ---
+TrackIT.UI/
+
+# --- Build results ---
+[Bb]in/
+[Oo]bj/
+
+# --- Visual Studio & IDEs ---
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# --- Environment Variables & Secrets (CRITICAL) ---
+.env
+appsettings.Development.json
+appsettings.local.json
+secrets.json
+
+# --- OS Generated Files ---
+.DS_Store
+Thumbs.db
+
+# --- Rider / JetBrains ---
+.idea/
+*.sln.iml
+
+# --- Log Files ---
+*.log
+
+# --- Test Results ---
+TestResults/

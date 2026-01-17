@@ -1,0 +1,8 @@
+2026-01-18 00:05:00.256 +05:00 [INF] Creating new asset: Britz 17
+2026-01-18 00:27:55.273 +05:00 [INF] Asset 3 assigned to User 48cdcd50-26a0-4e30-a318-a6fc38037705
+2026-01-18 00:37:47.279 +05:00 [INF] Asset 1 assigned to User 48cdcd50-26a0-4e30-a318-a6fc38037705
+2026-01-18 01:40:13.273 +05:00 [INF] Now listening on: https://localhost:7188
+2026-01-18 01:40:13.414 +05:00 [INF] Now listening on: http://localhost:5073
+2026-01-18 01:40:14.361 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-18 01:40:14.366 +05:00 [INF] Hosting environment: Development
+2026-01-18 01:40:14.371 +05:00 [INF] Content root path: C:\Users\ZC\source\repos\TrackIT\TrackIT.API
