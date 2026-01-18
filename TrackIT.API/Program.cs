@@ -92,7 +92,7 @@ builder.Services.AddCors(options =>
 
 
 var app = builder.Build();
-
+app.MapGet("/health", () => Results.Ok("Alive"));
 using (var scope = app.Services.CreateScope())
 {
     var services = scope.ServiceProvider;
